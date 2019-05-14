@@ -1,2 +1,2 @@
 # BookList
-Add new book details to the list by clickinh submit
+Add new book details to the list by clicking submit
